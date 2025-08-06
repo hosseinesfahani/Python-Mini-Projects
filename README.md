@@ -29,7 +29,7 @@ You are free to use these mini projects **for free** and integrate their code in
 ## 🔧 Usage  
 1. Clone the repository:  
 ```bash
-git clone https://github.com/USERNAME/python-mini-projects.git
+git clone https://github.com/hosseinesfahani/Python-Mini-Projects.git
 ```
 2. Navigate to the project folder and run any script:  
 ```bash
