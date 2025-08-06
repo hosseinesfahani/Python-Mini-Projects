@@ -14,14 +14,15 @@ Some projects have a **GUI**, some are **terminal-based**, and others are simple
 | # | Project Name        | Description | Type |
 |---|--------------------|-------------|------|
 | 1️⃣ | 📝 Terminal To-Do List | A simple task manager that runs in the terminal. | Terminal-based |
-| 2️⃣ | ✍️ Text to Hashtags  | Takes input text and automatically converts it into hashtags. | Script |
-| 3️⃣ | ❓ Upcoming Projects | New ideas and projects will be added here. | TBD |
+| 2️⃣ | 🔑 Text to Hash      | Takes input text and converts it into a hash (encryption). | Script |
+| 3️⃣ | ❓ Upcoming Projects | New ideas and projects will be added here. | Coming Soon |
 
 ---
 
 ## 🚀 Purpose  
 This repository is designed for practicing and improving Python skills through mini projects.  
 Each project is small, easy to understand, and can be run individually.  
+You are free to use these mini projects **for free** and integrate their code into your larger applications.  
 
 ---
 
