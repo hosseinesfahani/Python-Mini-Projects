@@ -3,27 +3,25 @@
 🚧 **This repository is still under development…** 🚧  
 
 Welcome to my Python mini projects! 🎉  
-Here you'll find a collection of small Python projects – some with a GUI, others terminal-based – all lightweight and **without a database**.  
+This repository contains a collection of **useful mini Python projects**.  
+You can easily reuse parts of these codes in your own applications.  
+Some projects have a **GUI**, some are **terminal-based**, and others are simple scripts.  
 
 ---
 
 ## 📂 Projects  
 
-### 1️⃣ 📝 Terminal To-Do List  
-- A simple to-do list manager that runs in the terminal.  
-- No database required, lightweight and fast.  
-
-### 2️⃣ ✍️ Text to Hashtags  
-- A project that takes input text and automatically converts it into hashtags.  
-- Full code and documentation will be added soon.  
-
-### 3️⃣ ❓ Upcoming Projects  
-- More ideas will be added here as they come to mind.  
+| # | Project Name        | Description | Type |
+|---|--------------------|-------------|------|
+| 1️⃣ | 📝 Terminal To-Do List | A simple task manager that runs in the terminal. | Terminal-based |
+| 2️⃣ | ✍️ Text to Hashtags  | Takes input text and automatically converts it into hashtags. | Script |
+| 3️⃣ | ❓ Upcoming Projects | New ideas and projects will be added here. | TBD |
 
 ---
 
 ## 🚀 Purpose  
-This repository is made for practicing and improving Python skills through mini projects that are easy to understand and quick to run. Perfect for beginners or anyone who wants to test small ideas.  
+This repository is designed for practicing and improving Python skills through mini projects.  
+Each project is small, easy to understand, and can be run individually.  
 
 ---
 
