@@ -14,7 +14,7 @@ Some projects have a **GUI**, some are **terminal-based**, and others are simple
 | # | Project Name        | Description | Type |
 |---|--------------------|-------------|------|
 | 1️⃣ | 📝 Terminal To-Do List | A simple task manager that runs in the terminal. | Terminal-based |
-| 2️⃣ | 🔑 Text to Hash      | Takes input text and converts it into a hash (encryption). | Script |
+| 2️⃣ | 🔑 Text to Hash      | Takes input text and converts it into a hash (encryption). | Script With GUI |
 | 3️⃣ | ❓ Upcoming Projects | New ideas and projects will be added here. | Coming Soon |
 
 ---
