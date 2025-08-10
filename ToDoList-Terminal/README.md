@@ -18,7 +18,7 @@ This project is designed for practicing Python and can be reused in larger appli
 
 1. Navigate to this project folder:  
 ```bash
-cd ToDoList-terminal
+cd ToDoList-Terminal
 ```
 
 2. Install the required dependencies:  
