@@ -16,7 +16,7 @@ A simple and user-friendly application to generate MD5 hash from your input text
 
 1. Navigate to this project folder:  
 ```bash
-cd TextToHashApp
+cd TextToHash
 ```
 2. Install the required dependencies:  
 ```bash
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 Run the application using:  
 ```bash
-python main.py
+python TextToHash.py
 ```
 ---
 
