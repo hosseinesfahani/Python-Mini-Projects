@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Run the program using:  
 ```bash
-python main.py
+python ToDoList.py
 ```
 
 ---
