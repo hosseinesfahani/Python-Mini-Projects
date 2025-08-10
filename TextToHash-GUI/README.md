@@ -16,7 +16,7 @@ A simple and user-friendly application to generate MD5 hash from your input text
 
 1. Navigate to this project folder:  
 ```bash
-cd TextToHash
+cd TextToHash-GUI
 ```
 2. Install the required dependencies:  
 ```bash
